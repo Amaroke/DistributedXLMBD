@@ -7,8 +7,19 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
 
+/**
+ * Cette classe permet d'initialiser une base de données en exécutant un script SQL.
+ */
 public class DBInitializer {
 
+    /**
+     * Méthode principale qui lit les informations de connexion à la base de données depuis un fichier de configuration,
+     * établit la connexion et exécute le script SQL donné pour créer les tables.
+     *
+     * @param args les arguments de ligne de commande (non utilisés ici)
+     * @throws Exception si une erreur survient lors de la lecture du fichier de configuration, de la connexion à
+     *                   la base de données ou de l'exécution du script SQL
+     */
     public static void main(String[] args) throws Exception {
 
         String configFilePath = "src/config.ini";
@@ -30,6 +41,14 @@ public class DBInitializer {
         }
     }
 
+    /**
+     * Exécute le script SQL contenu dans le fichier donné en utilisant la connexion SQL donnée.
+     *
+     * @param stmt           l'objet Statement associé à la connexion SQL
+     * @param scriptFilePath le chemin d'accès au fichier contenant le script SQL à exécuter
+     * @throws IOException  si une erreur survient lors de la lecture du fichier contenant le script SQL
+     * @throws SQLException si une erreur survient lors de l'exécution du script SQL
+     */
     private static void executeScript(Statement stmt, String scriptFilePath) throws IOException, SQLException {
         StringBuilder sb = new StringBuilder();
         try (BufferedReader br = new BufferedReader(new FileReader(scriptFilePath))) {

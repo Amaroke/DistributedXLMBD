@@ -1,0 +1,7 @@
+<SELECT>
+    <CHAMPS>*</CHAMPS>
+    <TABLES>
+        <TABLE>personnes</TABLE>
+    </TABLES>
+    <CONDITION>nom LIKE 'doe'</CONDITION>
+</SELECT>
