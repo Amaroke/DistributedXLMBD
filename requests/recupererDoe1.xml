@@ -1,5 +1,7 @@
 <SELECT>
-    <CHAMPS>*</CHAMPS>
+    <CHAMPS>
+        <CHAMP>*</CHAMP>
+    </CHAMPS>
     <TABLES>
         <TABLE>personnes</TABLE>
     </TABLES>

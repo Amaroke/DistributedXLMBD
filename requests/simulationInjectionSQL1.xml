@@ -1,0 +1,21 @@
+<SELECT>
+    <CHAMPS>
+        <CHAMP>nom</CHAMP>
+        <CHAMP>prenom</CHAMP>
+    </CHAMPS>
+    <TABLES>
+        <TABLE>personnes</TABLE>
+    </TABLES>
+    <CONDITION>
+        <SELECT>
+            <CHAMPS>
+                <CHAMP>nom</CHAMP>
+                <CHAMP>prenom</CHAMP>
+            </CHAMPS>
+            <TABLES>
+                <TABLE>personnes</TABLE>
+            </TABLES>
+            <CONDITION>age > 30</CONDITION>
+        </SELECT>
+    </CONDITION>
+</SELECT>

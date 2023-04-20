@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SELECT>
+    <CHAMPS>
+        <CHAMP>nom</CHAMP>
+        <CHAMP>prenom</CHAMP>
+    </CHAMPS>
+    <TABLES>
+        <TABLE>personnes</TABLE>
+    </TABLES>
+    <CONDITION>age &gt; 30</CONDITION>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>SAUp4/5A1PwWCEsL0cqAmYZlMSCCBc8J9TTNoiRO4Vs=</DigestValue></Reference></SignedInfo><SignatureValue>bClpZ2FKdU7JeXorWUjnCh/AzaLFyg16L/UQ/ooo0ZT4lQz9i5Lw0SeSfpAZJL9MZgyWWu7LgkYv&#13;
+DEWpMyCLY32JGe1lwkpD+QMYqCXRqES6iXoq3ghk6bVf0R5kbN+qoLhaRcM2nmEYxmP6nFWHP3uP&#13;
+XzgWE7inZs1I4TF7pLo7IyHA7GmrOFp6oTz7NKYioJKNvtfSmb/27IADjgJ5fET8ztzlKOTtw9sy&#13;
+bvLE4ZC2IEE7RfuSPMXIBcEaalMbeWhDf6Eo1Q+B8qZTpXhXukMr3TsL1LjdZMNgd74cy10DH7qQ&#13;
+/600ISEomNTKv23Pu+VSTGHwd48FZPGkP86Xbg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ooItMijEAxSuUdTCx7e4AFnflP0+XXASWLQ2IShzX3x8v0+hoTpDYtcLUS0/DvR18LvZCnM1Rk+h&#13;
+dT7jK7A1nBgT5Tl2rIbPBFPMzfYq9bq0lgimU+P8ep1XhDrETNdiFcdCvU/T2+pqBG04OT3Dmcco&#13;
+q2eM5aTOr55C2QEJKsk+gEk/P31Lx1l3QG5fRgrSB/nm/TQRWD5OZJ2LkffgU2o/DDqkwb6qhLiB&#13;
+BoR7J/3pLYjLQCwhwnvDNHsgRwXnB9EBBxlEQsciyVgIA8eRJOr6YDB/sSSEJsnmEHurytKwq8P9&#13;
+xeJ4mTFK72oRCLahJK73Btl0/MrSwFpU4LJj0w==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></SELECT>

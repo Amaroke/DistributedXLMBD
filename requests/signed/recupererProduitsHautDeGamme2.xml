@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SELECT>
+    <CHAMPS>
+        <CHAMP>nom</CHAMP>
+        <CHAMP>prix</CHAMP>
+    </CHAMPS>
+    <TABLES>
+        <TABLE>produits</TABLE>
+    </TABLES>
+    <CONDITION>description LIKE '%haut de gamme%'</CONDITION>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>cvkeTXBuEApIc2ZNu8FQanzV3RXCg6X4pnaW7ce2noU=</DigestValue></Reference></SignedInfo><SignatureValue>A24xEdtYoQoXfojW0nYYBR9sG9UiBek85k0Qhia6GB7JwVWRhPtsX5GI3iNm5TPXQTvJ2JjNRxG/&#13;
+9sV/kAPR22N3PO+oSSqgut0QF33mkMvW9iquD7JDr+w0YtyprSgOAA8nu+RJcfJCrgYtS+kRkbDK&#13;
+e+6FthXLyv2Km32JRt6zVerzyIzxAi0P20RzD2LiBPFui6cogS8Xj8XkBrMVmdRFWKjUfSBG+8P8&#13;
+ghOr1k3RSGzzX3ELKNbTsvIFW3CqVC/3gz9mTWghHGU/KIuL1UHw+gT/AJsopJvhDHzI/IgRIz0v&#13;
+1OqRPXxRscwMu+vrqOTYazUc5q7FKsvJhj0Ngw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>idK3kv2KL7lbMff5CBonmXEnVyGGNNxkGj9MvSXmInaNYgbwEd8zTWZJM4N3KH4Y2CkmMItrxRn9&#13;
+Tcl1eaDhYLB7bPPJ2CPoKS7sPwyHu8GIiiGf+V7suwbA8E7NSL+SJiRu+dFtD3dHMlat1F2qkvnb&#13;
+je0B53i0I7QHjh6IarOP675Uu8doyYlKMesJ5RrK5fd3mg3VRp+bmBmn5H9Lrjwth/3AktU0i4vS&#13;
+55Oy0YO4+Rrg/nrylbJH8KbcV95ihq6FXFMKBXB8A53xthSpWHV/dzrOKtQORcEt2PAD/DmyDjkl&#13;
+B/efT7lFEGlOW+KegGhDUVum7V1K8ujnRTwBTw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></SELECT>

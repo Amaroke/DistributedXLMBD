@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SELECT>
+    <CHAMPS>
+        <CHAMP>*</CHAMP>
+    </CHAMPS>
+    <TABLES>
+        <TABLE>personnes</TABLE>
+    </TABLES>
+    <CONDITION>nom LIKE 'doe'</CONDITION>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>dhN/iVzao/a7FI4x+4xny/HcGbY3TkXSRkUgPe3QgyA=</DigestValue></Reference></SignedInfo><SignatureValue>Mv6BUF7AlAnf8h+TosDZPVcHhD7i6MfFUtTXAgPHgc/SDI/YVPHahVNvE2KJ94BaraS7jYoBUYF2&#13;
+t8eaHM3kuLrk1Rsa/9BZoIc9s72XBNbqULjS3RptLrr5dQd5JGeH4imsYW8cEzwvbBjGaWFOW3m6&#13;
+yh1OpL+WR6+b7No2pyxE4ZYm2PN8LxRC38LqtppriBMhDH+hA2YdDxDLFKftFTW1LYMBB5DQ6Aae&#13;
+p4Wid7qrDkaTEohQQpl2qvhvaoP4uLB+qRhKC4u+Xor0ysDf3dthImd8oP3db4P6Dab1ltGx/nEG&#13;
+wemEiNshcrVmU+hOxHdctWjnVnPVhCLUCsXgWg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z5Yrry6TP7kl0Sx0IGFsRpQ3HNQs1WiBLA80sOM55knlaSgKri76eMybn9lD5wx31Wvqd6CRxb7u&#13;
+ZWD9sfHgu58oW5AJqKisksqnesAU59mpU4vpCQYrL/BF+rUAcZjDs5CNVkThpM5g0F4ZQXd676uI&#13;
+Hd0Vm2zBGnKQ4zIJQQg0OBDayyyo0TWN6wOVxsC7WovJSPdfvJM7BHgeeYzbzaJkeLpYVY1kJcYW&#13;
+aPYVtiC+4otIR/pTu/FAvcnfDhtFKQrxX8bLETvHDtFV5hvC+AnsTQzwjda9ppgawy51Da8V268E&#13;
+/5+NToe8D2LOQ67Jasj6sk/O1NPr838I7IvFqw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></SELECT>

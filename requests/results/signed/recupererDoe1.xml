@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><RESULTAT><TUPLES><TUPLE><CHAMP>1</CHAMP><CHAMP>Doe</CHAMP><CHAMP>John</CHAMP><CHAMP>30</CHAMP></TUPLE><TUPLE><CHAMP>2</CHAMP><CHAMP>Doe</CHAMP><CHAMP>Jane</CHAMP><CHAMP>28</CHAMP></TUPLE></TUPLES><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>gDMivaW+Mt8qxAenBppSA1zmACIUa36g+0E7OoN/5ys=</DigestValue></Reference></SignedInfo><SignatureValue>QIsfyRR++p1+vtXr1uG8FcjE7dm301UrRUxu2Q+8zLXQU01enpJYkKxfaZ1QRLHRz56vcLwifSco&#13;
+PjmnGAmymUcOEesWJAE3Tt9acl6nqwx+A9ynRFb+Yxf6Yn8SpZdmysBzkSrioLneuG048VD7i1mc&#13;
+cPGOfzzH/XhribSlfLQGOYThJhbtcWGK72qFmDEfJxD0zXAq9ZKIsHtACyONNw4NzePyoipAYYlr&#13;
++o836Ensgrc5XogrKXrusQqBd7A+VQ/Gb2coFBTmjHFSfKxMqkj4lonviQJBuXnvTHzz+oSumwUq&#13;
+BnmFADfKLR9vB0V5dqlesPbzdYCXO+bVVACGDA==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pG+tD94V4MFfPCgyiJGKLrrHcN4QDx/0vG46mb+JjF7hFWBrqPIfKbnD17sxNbq24/nY8dU+HDC8&#13;
+kU1G5RCMoOJXGWI1M74C1EgNjUqap6rNjBCq7C+sM6OZFfgbM8sTQwGVRPyQxVZh1P9XGssbqFfz&#13;
+H/MLEtwY4yjkEEFlYTqWqta2FgKHgVzs/723UGeV9x7ze51y3LUDI6/awzc7PHgBcmOjHpxj52Yx&#13;
+i355DAVsNuNby1zuU0mPsBmFNMROxVr3ulh6MhtZ6Kcww7wTK8MWlbBiMsMjBtO2mfT6fygT21u7&#13;
+NgAkufVMIn+p5JeAzp6iFn2qpB5TjoCenr1FMw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></RESULTAT>

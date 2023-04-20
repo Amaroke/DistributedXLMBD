@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RESULTAT>
+    <TUPLES>
+        <TUPLE>
+            <CHAMP>Ordinateur portable</CHAMP>
+            <CHAMP>999.99</CHAMP>
+        </TUPLE>
+    </TUPLES>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+                <DigestValue>lUzYSNfGNr2dcD45xNSunUNCxqKcp2ZcUtva4rYXJ4w=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>iZKIGaaD1RzAEluevoO420zpsDzHF0owEI/bctcDi9Z8P8atxy1GlE6MkxY3mNxUCHWcfjfjXDIk&#13;
+            zneVAb9ycxVnFeluFIjCLGjkc1Ff57CpXEJQB4RzBD+g/ZvtgvYiXfcLvRDntcRjQUnQ6b/ijt0F&#13;
+            K5FNwqzWr6bbx9lHlBqTvF9dCgtdn0SjBCZsmMxuOt3NZzk617B8/a5NLfucKRYRUSeJNwjb9Wb1&#13;
+            LiDhnDp6b973uCIQHDMy16dsi+GqwIbqSUYgb8BKaHJ0mnsdSsog8zyQBfDcO7zfC0Cg/8MOHCIk&#13;
+            IeVKQhh4U+17YlYpu3eLVxG16cEvrFBEDFPyYw==
+        </SignatureValue>
+        <KeyInfo>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>9K2cLHC5PhHggS/xXnGkefFERLQN9218Zsu10KhK0wNG1r9KS+kpfaDZ64GjET0FE4jhEgtPqLr1&#13;
+                        L4xF/u16trXg5y+7iza6/86InN/8kVK3wHn3PvcoN9uGV0DI5eiH9p18avJvZDHNG+YaTDeb9FNZ&#13;
+                        JtpjCJ3no3u4lZNiGUSRHuTQTpf3zbjZNPwe1SdDddaFKD56/JT8s3kDgicVZRV8f7GyElDXjs8S&#13;
+                        kCRQUSJnyVLKJIF1IQta2ijZzq38vvDJ+izcEgGKpuSQofHQbHg7HIrE8BdvUML8N1nXJNYR+AqO&#13;
+                        g0b+fzn2BEIrAmq02vizh+XRCItJRZdtTDdneQ==
+                    </Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+    </Signature>
+</RESULTAT>

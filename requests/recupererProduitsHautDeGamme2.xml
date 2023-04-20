@@ -1,0 +1,10 @@
+<SELECT>
+    <CHAMPS>
+        <CHAMP>nom</CHAMP>
+        <CHAMP>prix</CHAMP>
+    </CHAMPS>
+    <TABLES>
+        <TABLE>produits</TABLE>
+    </TABLES>
+    <CONDITION>description LIKE '%haut de gamme%'</CONDITION>
+</SELECT>
